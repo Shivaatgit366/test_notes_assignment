@@ -1,2 +1,4 @@
-# test_notes_assignment
-assignment on notes creation
+# assignment
+How to run the application?
+
+- Just run the command "npm start" in your terminal.
